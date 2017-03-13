@@ -1,0 +1,54 @@
+* {
+  /*border: 1px solid black;*/
+}
+
+body {
+  background: rgb(244, 248, 249);
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.photo {
+  display: inline;
+}
+
+.tweet {
+  background: rgb(255, 255, 249);
+  border: 1px solid rgb(225, 232, 237);
+  height: 250px;
+}
+
+.follow {
+  color: rgb(85, 172, 238);
+  float: right;
+}
+
+.name {
+  color: rgb(0, 0, 0);
+  display: inline;
+}
+
+.jack {
+  display: inline;
+}
+
+.account {
+  color: rgb(104, 109, 129);
+}
+
+.text {
+  color: rgb(0, 0, 0);
+}
+
+.date {
+  color: rgb(101, 116, 127);
+}
+
+.footer {
+  display: inline;
+  color: rgb(105, 120, 130);
+}
+
+.retweets,
+.favorites {
+  display: inline;
+}
